@@ -6,7 +6,7 @@ import utils.Lasagna;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class LasagnaTest {
+public class git LasagnaTest {
 
     @Test
     @Tag("task:1")
